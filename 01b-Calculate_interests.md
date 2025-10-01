@@ -27,3 +27,4 @@ Finally, the program should only show one number with a maximum of two digits af
 0    .    1    
 T    h    e         t    o    t    a    l         a    m    o    u    n    t         o    f         m    o    n    e    y         y    o    u         w    i    l    l         h    a    v    e         a    f    t    e    r         y    o    u         d    e    p    o    s    i    t         1    0    0    0    .    0    0         a    t         t    h    e         e    n    d         o    f         1    0    .    0         y    e    a    r    s         w    i    l    l         b    e         2    5    9    3    .    7    4         €    
 
+date of the day : 01/10/2025
